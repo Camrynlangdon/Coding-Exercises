@@ -1,0 +1,23 @@
+{
+  "name": "Coding-Exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Leetcode1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camrynlangdon/Coding-Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camrynlangdon/Coding-Exercises/issues"
+  },
+  "homepage": "https://github.com/Camrynlangdon/Coding-Exercises#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
